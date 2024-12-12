@@ -1,0 +1,3 @@
+Minecraft version: 1.19.2
+Current mod version: 0.0.0
+Description: This mod is designed to change vanilla settlements of civilians into structured, logical and living settlements that can be developed.
