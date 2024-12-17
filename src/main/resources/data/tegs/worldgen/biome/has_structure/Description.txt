@@ -1,1 +1,0 @@
-Here you need to set the biomes where the structure will spawn.
