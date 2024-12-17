@@ -12,6 +12,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
 
+
 @Mod(GrowthOfConsciousness.MOD_ID)
 public class GrowthOfConsciousness
 {
@@ -28,7 +29,9 @@ public class GrowthOfConsciousness
 
         MinecraftForge.EVENT_BUS.register(this);
 
+        //MinecraftForge.EVENT_BUS.register(TagsHandler.class);
     }
+
 
     private void commonSetup(final FMLCommonSetupEvent event)
     {

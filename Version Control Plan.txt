@@ -1,2 +1,3 @@
 0.0.0: Make a project and run an empty mod for game version 1.19.2.
 0.0.1: Stop spawning vanilla settlements. This is necessary for their subsequent replacement.
+Update: it was not possible to independently "remove" or "replace" the structure of the "old" with the "new" settlement. Therefore, it was decided to simply create a structure and a puzzle structure in the future so that it can be modified in the future.
